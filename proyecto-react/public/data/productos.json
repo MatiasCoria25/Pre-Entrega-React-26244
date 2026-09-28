@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "nombre": "Marvels Spider-Man 2 Deluxe Edition",
+    "precio": 11000,
+    "imagen": "https://i.ibb.co/zWMkZWn6/Spider-Man.avif"
+  },
+  {
+    "id": 2,
+    "nombre": "Red Dead Redemption 2 Ultimate Edition",
+    "precio": 7999,
+    "imagen": "https://i.ibb.co/dTJnz1Q/Red-Dead-Redemption.avif"
+  },
+  {
+    "id": 3,
+    "nombre": "Dragon Ball: Sparking! Zero",
+    "precio": 10500,
+    "imagen": "https://i.ibb.co/QjMm7T0q/Dragon-Ball.avif"
+  },
+  {
+    "id": 4,
+    "nombre": "NBA 2K27 Ultra Edition PC Steam",
+    "precio": 15699,
+    "imagen": "https://i.ibb.co/b5M5w1XQ/Nba-2K27.avif"
+  },
+  {
+    "id": 5,
+    "nombre": "Captain Tsubasa 2: WORLD FIGHTERS",
+    "precio": 10899,
+    "imagen": "https://i.ibb.co/hRS1J2kM/Captain-Tsubasa.avif"
+  },
+  {
+    "id": 6,
+    "nombre": "Ea Sports Fc 26 Standar Edition",
+    "precio": 12600,
+    "imagen": "https://i.ibb.co/8LxyTx4X/Fc26.avif"
+  },
+  {
+    "id": 7,
+    "nombre": "Minecraft Java & Bedrock Edition",
+    "precio": 23750,
+    "imagen": "https://i.ibb.co/wrPbHTmS/Minecraft.avif"
+  },
+  {
+    "id": 8,
+    "nombre": "F1 25: 2026 Season Edition Season pack",
+    "precio": 13500,
+    "imagen": "https://i.ibb.co/hRhSrnWW/f1-25.avif"
+  },
+  {
+    "id": 9,
+    "nombre": "MARVEL Tokon: Fighting Souls",
+    "precio": 12999,
+    "imagen": "https://i.ibb.co/JRJT5NvM/Marvel-Tokon.avif"
+  },
+  {
+    "id": 10,
+    "nombre": "SILENT HILL: Deluxe Edition",
+    "precio": 9999,
+    "imagen": "https://i.ibb.co/cStN421d/Silent-Hill.avif"
+  },
+  {
+    "id": 11,
+    "nombre": "Mafia: The Old Country Definitive Edition",
+    "precio": 13399,
+    "imagen": "https://i.ibb.co/8nTCt1L8/Mafia.avif"
+  },
+  {
+    "id": 12,
+    "nombre": "The Blood Dawnwalker Eclipse Edition",
+    "precio": 10999,
+    "imagen": "https://i.ibb.co/ksqVKNgg/The-Blood.avif"
+  }
+]

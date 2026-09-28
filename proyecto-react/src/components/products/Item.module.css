@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Sixtyfour+Convergence&display=swap');
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(500px, 1fr)); 
+  gap: 40px; 
+  padding: 32px;
+}
+
+.card {
+  background: #0d0d0d;
+  color: #fff;
+  border: 2px solid gold;
+  border-radius: 12px;
+  padding: 32px;
+  text-align: center;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+  width: 70%;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 12px gold;
+}
+
+.h2 {
+  font-family: 'Sixtyfour Convergence', sans-serif;
+  font-size: 14px;
+}
+
+.image {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin: 20px auto;
+  display: block;
+}
+
+.price {
+  font-size: 16px;
+  color: #ffcc00;
+  margin: 8px 0;
+}
+
+.controls {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+}
+
+.controls button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.controls button:hover {
+  background: #ffcc00;
+  color: #000;
+}
